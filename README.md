@@ -1,6 +1,6 @@
 # Olist Delivery Time Forecasting
 
-This project uses the Olist e-commerce dataset to predict average delivery time for new customers using Python and machine learning.
+This project uses the Olist e-commerce dataset to predict average delivery time for new customers using Python and machine learning. A detailed project report is included in this repository for additional context.
 
 ## Project Objective
 The goal of this project is to forecast delivery time and generate business insights that can support logistics planning and improve customer experience.
